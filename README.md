@@ -125,5 +125,3 @@ Manish Yadav – Full Stack Developer
 GitHub: ttps://github.com/Mannu14/House-of-Edtech.git
 
 ---
-
-⭐ Star this repo if it helped!
