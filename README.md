@@ -90,19 +90,24 @@ npm run dev
 ---
 
 ## 📁 Project Structure  
-/backend  
-  ├── main.go  
-  ├── routes/  
-  ├── handlers/  
-  ├── models/  
-  ├── websocket/  
-  └── utils/  
 
-/frontend  
-  ├── src/  
-  ├── components/  
-  ├── pages/  
-  └── hooks/  
+  trading-dashboard/
+  
+    backend/
+        main.go
+        go.mod
+        go.sum
+        Dockerfile
+
+    frontend/
+        src/
+            App.js
+            index.js
+            App.css
+
+    README.md
+
+
 
 ---
 
@@ -120,5 +125,3 @@ Manish Yadav – Full Stack Developer
 GitHub: ttps://github.com/Mannu14/House-of-Edtech.git
 
 ---
-
-⭐ Star this repo if it helped!
