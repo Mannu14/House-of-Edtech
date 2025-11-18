@@ -124,4 +124,8 @@ npm run dev
 Manish Yadav – Full Stack Developer  
 GitHub: ttps://github.com/Mannu14/House-of-Edtech.git
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> a720e01599206b9274e519a01101f43d63d4e599
